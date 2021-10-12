@@ -9,6 +9,7 @@ public:
 		: Window(800, 600)
 	{
 		set_caption("Gosu Tutorial mit Git");
+		//Rollerblades sind cool
 	}
 
 	// Wird bis zu 60x pro Sekunde aufgerufen.
